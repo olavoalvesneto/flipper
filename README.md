@@ -1,4 +1,10 @@
-## Foundry
+# Basic Solidity
+## Smart Contract
+- Store a value (true, false)
+- Anyone can view the value
+- Anyone can change this value
+
+# Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
